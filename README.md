@@ -1,1 +1,1 @@
-# NLP Semantic Analysis
+# NLP Sentiment Analysis
